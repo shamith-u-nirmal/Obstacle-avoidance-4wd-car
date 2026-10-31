@@ -43,7 +43,7 @@ The ultrasonic sensors are used for obstacle avoidance, while the IR sensors sup
 
 ## Demonstration
 
-A video demonstrating the robot's obstacle avoidance will be added here.
+Youtube link: https://youtu.be/SZcbKt8lwZQ?si=faTDUMWBhtxyCINN
 
 ## Future Improvements
 
